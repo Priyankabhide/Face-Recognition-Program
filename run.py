@@ -13,7 +13,7 @@ def whatsapp():
 def mail():
     sender_email = "priyankabhidessk@gmail.com"
     receiver_email = "ritikaahuja868@gmail.com"
-    password = ("bhide_p@173")
+    password = ("********")
     message = """Alert! \n
     Hey ritika...someone is trying to use your mail"""
 
